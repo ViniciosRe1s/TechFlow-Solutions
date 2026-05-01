@@ -28,4 +28,4 @@ O projeto utiliza conceitos de metodologias ágeis:
 
 ## Como executar
 
-1 Instale as dependências
+
