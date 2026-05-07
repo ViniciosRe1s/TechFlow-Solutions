@@ -28,4 +28,26 @@ O projeto utiliza conceitos de metodologias ágeis:
 
 ## Como executar
 
+## Funcionalidades
+
+- Criar tarefas
+- Listar tarefas
+- Excluir tarefas
+
+## Tecnologias
+
+- Python
+- Flask
+- Pytest
+- GitHub Actions
+
+## Metodologia Ágil
+
+Foi utilizada a metodologia Kanban para organização das tarefas.
+
+## Mudança de Escopo
+
+Inicialmente o sistema teria apenas cadastro e listagem de tarefas.
+
+Durante o desenvolvimento foi adicionada a funcionalidade de exclusão de tarefas para melhorar o gerenciamento.
 
