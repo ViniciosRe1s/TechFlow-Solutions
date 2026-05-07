@@ -1,3 +1,4 @@
+# Teste automatizado da rota principal
 from src.app import app
 
 def test_home():
